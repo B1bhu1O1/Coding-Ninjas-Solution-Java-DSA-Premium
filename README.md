@@ -6,6 +6,6 @@ Course Taken on Date - 16-March-2022
 ![LOGO-05](https://user-images.githubusercontent.com/68940229/187216740-97b52d77-9801-431c-abce-2b9edcd5b599.png)
 # Appendix
 Please star the github section and purchase the React Course from the link provided on the right. You will get a 10-20% discount using my link provided to you on the right. Enjoy..........
-Disclaimer:
+# Disclaimer:
 Before jumping onto the solution, try for yourself!
 Happy Coding be a Ninja Coder.
