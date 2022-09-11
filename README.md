@@ -8,4 +8,4 @@ Course Taken on Date - 16-March-2022
 Please star the github section and purchase the React Course from the link provided on the right. You will get a 10-20% discount using my link provided to you on the right. Enjoy..........
 # Disclaimer:
 Before jumping onto the solution, try for yourself!
-Happy Coding be a Ninja Coder.
+ Happy Coding be a Ninja Coder.
